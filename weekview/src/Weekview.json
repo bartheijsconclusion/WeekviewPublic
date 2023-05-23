@@ -1,0 +1,5 @@
+{
+    "nativeDependencies": {
+        "react-native-week-view": "0.28.4"
+      }
+}
